@@ -1,5 +1,5 @@
-# Music-Playlist
-=> Our goal is to create a program to simulate an online music playlist such as “Spotify” for the music discovery and recommendations of the playlist.
+# Music-Playlist 
+=> The goal is to create a program to simulate an online music playlist such as “Spotify” for the music discovery and recommendations of the playlist.
 => To use an appropriate data structure to sort, search and manipulate user’s songs, in this case a linked list.
 => To gather an understanding of  how pointers work in our playlist functions, such as getting the next song and understanding how linked list allows users to simultaneously play songs, add new songs and delete any unwanted songs.
 => Linked lists are both faster and no memory is going into waste, unlike arrays. 
